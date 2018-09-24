@@ -1,0 +1,45 @@
+.wrap {
+    width: 950px;
+    margin: auto;
+}
+
+header {
+    text-align: center;
+}
+
+.content {
+    
+}
+
+.footer {
+    width 750px;
+    font-family: fantasy;
+}
+
+.footer .main {
+    width: 25%;
+    float: left;
+    background: #FFC0CB;
+}
+
+.footer .about_us {
+    width: 25%;
+    float: left;
+    background: #FFC0CB;
+}
+
+.footer .home {
+    width: 25%;
+    float: left;
+    background: #FFC0CB;
+}
+
+.footer .map {
+    width: 25%;
+    float: left;
+    background: #FFC0CB;
+}
+
+p{
+color:#00008B;
+}
